@@ -1,7 +1,7 @@
-- 👋 Hi, Jose Borrayo from @thecircuitproject
-- 👀 I’m interested in embedded systems, electronics, and microcontrollers.
-- 🌱 I’m currently learning MPLAB, C programming, and embedded engineering.
-- 💞️ I’m looking to collaborate on Microchip processors, Arduino, Raspberry Pi, MPLAB, and embedded systems in general.
+- 👋 Hi, I'm Jose Borrayo
+- 👀 I’m interested in embedded systems, electronics, microcontrollers, data science and data analysis.
+- 🌱 I’m currently learning C programming, embedded engineering, Python and Data Science.
+- 💞️ I’m looking to collaborate on Microchip processors, Arduino, Raspberry Pi, MPLAB, embedded systems in general, and Data Science Notebooks.
 - 📫 How to reach me:
   YouTube: The Circuit Project https://www.youtube.com/c/TheCircuitProject
   Instagram: https://instagram.com/thecircuirproject
